@@ -1,3 +1,4 @@
+//Link de github: https://github.com/GordonFHL3/MPUCEN
 //En el codigo, se hacen cast de int a float para la posicion del ultimo elemento
 //esto es debido a que cuando uno divide y uno de los valores ingresados es
 //int, la division se vera truncada, por ende, para que no suceda esto
